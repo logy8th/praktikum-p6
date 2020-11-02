@@ -1,3 +1,7 @@
 # Tugas Pertemuan ke-6 [Senin, 26-10-2020]
 <br>
-Repository ini dibuat untuk memenuhi tugas Bahasa Pemrograman pertemuan ke - 6
+Nama    : NAUFAL NIRWANSYAH
+Kelas   : TI.20.A1
+NIM     : 312010174
+
+# 
