@@ -202,7 +202,8 @@ String formatting atau pemformatan string memungkinan kita menyuntikkan item ked
 Menggunakan souce code yang diberikan oleh dosen pengampu pada pertemmuan ini :
 ![P6](pertemuan6.2/sample1.png)
 
-```#string format 1
+```
+#string format 1
 print(0, 10**0)
 print(1, 10**1)
 print(2, 10**2)
@@ -236,5 +237,6 @@ Pada syntax string format 1 akan menampilkan hasil berupa 2 output. <br>
 Yang pertama dari sebelah kiri akan menampilkan urutan angka dari 0 - 10, sedangkan dari sebelah kanan akan menampilkan *Operasi Aritmatika Pangkat*. <br>
 Dengan ketentuan sebagai berikut, Operasi pangkat dengan angka kiri sebagai pokok. <br>
 (Rumus : ** [bintang dua] ) <br>
-Berikut sample output dari syntax diatas :
+Berikut sample output dari syntax diatas : <br>
+
 ![P6](pertemuan6.2/string1.png)
