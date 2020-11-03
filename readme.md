@@ -48,4 +48,13 @@ print(f"Let me introduce my self. My name is {fullname}, but you can call me {ni
 **Maka akan keluar ouput sebagai berikut :**
 
 ![P5](pertemuan5/p5.png)
+
 <br>
+Berikut Penjelasannya :
+
+print("please enter your full name : ")
+Source code diatas berfungsi untuk mencetak hasil / output berupa **Please enter your full name** : ".
+Untuk menampilkan output string, saya menggunakan tanda petik dua didalam fungsi print(), sedangkan jika saya ingin menampilkan output atau hasil berupa angka atau interger saya tidak perlu menggunakan tanda petik dua. Contohnya :
+
+***print("Nama saya adalah...")
+print(1234567)***
