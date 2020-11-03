@@ -1,11 +1,14 @@
 # Tugas Pertemuan ke-6 [Senin, 26-10-2020]
+
 <pre>
 Nama    : NAUFAL NIRWANSYAH
 Kelas   : TI.20.A1
 NIM     : 312010174
 </pre>
+
 <br>
 <br>
+
 Daftar isi tugas sebelumnya<br>
 | No. | Keterangan | Link |
 | --- | --- | --- |
