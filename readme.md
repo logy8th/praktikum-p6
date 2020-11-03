@@ -118,4 +118,25 @@ print(w, x, y, z, sep='.....')
 <br>
 
 ***Maka akan terlampir input seperti ini***
-![P6](pertemuan6.1/p6-1.png) <br>
+![P6-1](pertemuan6.1/p6-1.png) <br>
+
+*Penggunaan END
+Penggunaan end digunakan untuk menambahkan karakter yang dicetak di akhir baris. secara default penggunaan end adalah untuk ganti baris.  
+``` python
+print('A', end='')
+print('B', end='')
+print('C', end='')
+```
+> Penggunaan print () digunakan untuk mencetak output, seperti syntax dibawah ini :
+
+``` python
+print()
+```
+>Syntax dibawah ini digunakan untuk menampilkan output berupa string
+``` python
+print('X')
+print('Y')
+print('z')
+```
+Hasil dari source code tersebut seperti gambar dibawah ini :<br>
+![P6-1](pertemuan6.1/sample2.png)
