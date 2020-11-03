@@ -116,6 +116,6 @@ print(w, x, y, z, sep=':')
 print(w, x, y, z, sep='.....')
 ```
 <br>
-***Maka akan terlampir input seperti ini***
 
+***Maka akan terlampir input seperti ini***
 ![P6](pertemuan6.1/p6-1.png) <br>
