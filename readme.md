@@ -43,3 +43,6 @@ print("Assalamu'alaikum. ")
 print(f"Let me introduce my self. My name is {fullname}, but you can call me {nickname}. My NPM {npm}. I was born in {pob} and Iam {dob} years old. I am very glad if you want to invite my house in {address}. So don't forget to call me before with the number {phone}. \n\n Thank You ")
 
 ```
+<br>
+Maka akan keluar ouput sebagai berikut : <br>
+![tugas_5](pertemuan5/p5.png)
