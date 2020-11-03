@@ -8,7 +8,7 @@ Daftar isi tugas sebelumnya<br>
 | No. | Keterangan | Link |
 | --- | --- | --- |
 | 1 | Pertemuan 5 | [Link](#tugas-pertemuan-5) |
-| 2 | Pertemuan 6.1 | [Link](#tugas-pertemuan-6) |
+| 2 | Pertemuan 6-1 | [Link](#tugas-pertemuan-6-1) |
 | 3 | Pertemuan | [Link](https://...) |
 | 4 | Pertemuan | [Link](https://...) |
 | 5 | Pertemuan | [Link](https://...) |
@@ -94,7 +94,7 @@ Keterangan :
 2. Sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable<br>
 
 
-## Tugas Pertemuan 6
+## Tugas Pertemuan 6-1
 
 Berikut adalah tugas pada pertemuan ke - 6 = **Operator**
 <br>
