@@ -8,7 +8,7 @@ Daftar isi tugas sebelumnya<br>
 | No. | Keterangan | Link |
 | --- | --- | --- |
 | 1 | Pertemuan 5 | [Link](#tugas-pertemuan-5) |
-| 2 | Pertemuan | [Link](https://...) |
+| 2 | Pertemuan 6.1 | [Link](#tugas-pertemuan-6.1) |
 | 3 | Pertemuan | [Link](https://...) |
 | 4 | Pertemuan | [Link](https://...) |
 | 5 | Pertemuan | [Link](https://...) |
@@ -91,4 +91,31 @@ Hasil dari source code diatas adalah seperti gambar dibawah ini :
 
 Keterangan : 
 1. Fungsi huruf **f** pada perintah *print(f"....")* adalah fungsi print atau bisa memudahkan programer dalam mencetak statement dalam satu baris dibandingkan dengan metode yang lama yaitu memisahkan string dan variable dengan simbol koma( , ) atau plus ( + )<br>
-2. sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable<br>
+2. Sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable<br>
+
+
+## Tugas Pertemuan 6.1
+Berikut adalah tugas pada pertemuan ke - 6 = Operator
+<br>
+
+```#penggunaan end
+print('A', end='')
+print('B', end='')
+print('C', end='')
+print()
+print('X')
+print('Y')
+print('z')
+
+#penggunaan separator
+w, x, y, z = 10, 15, 20, 25
+print(w, x, y, z)
+print(w, x, y, z, sep=',')
+print(w, x, y, z, sep='')
+print(w, x, y, z, sep=':')
+print(w, x, y, z, sep='.....')
+```
+<br>
+***Maka akan terlampir input seperti ini***
+
+![P6](pertemuan6.1/p6-1.png) <br>
