@@ -88,3 +88,7 @@ Keterangan :
 Hasil dari source code diatas adalah seperti gambar dibawah ini :
 ```
 ![P5](pertemuan5/sample2.png) <br>
+
+Keterangan : 
+1. Fungsi huruf **f** pada perintah *print(f"....")* adalah fungsi print atau bisa memudahkan programer dalam mencetak statement dalam satu baris dibandingkan dengan metode yang lama yaitu memisahkan string dan variable dengan simbol koma( , ) atau plus ( + )<br>
+2. sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable<br>
