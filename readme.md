@@ -7,7 +7,7 @@ NIM : 312010174
 Daftar isi tugas sebelumnya<br>
 | No. | Keterangan | Link |
 | --- | --- | --- |
-| 1 | Pertemuan 5 | [Link](#Tugas Pertemuan 5) |
+| 1 | Pertemuan 5 | [Link](#tugas-pertemuan-5) |
 | 2 | Pertemuan | [Link](https://...) |
 | 3 | Pertemuan | [Link](https://...) |
 | 4 | Pertemuan | [Link](https://...) |
