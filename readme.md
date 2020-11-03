@@ -60,7 +60,28 @@ Source code diatas berfungsi untuk mencetak hasil / output berupa **Please enter
 Untuk menampilkan output string, saya menggunakan tanda petik dua didalam fungsi print(),
 sedangkan jika saya ingin menampilkan output atau hasil berupa angka atau interger saya tidak perlu menggunakan tanda petik dua. Contohnya : <br>
 
-***print("Nama saya adalah...")
-print(1234567)***
+***print("Nama saya adalah...")***
+<br>***print(1234567)***
 
 ![P5](pertemuan5/sample.png)
+
+Keterangan : <br> 
+>Variable adalah sebuah wadah penyimpanan data pada program yang akan akan digunakan selama program itu berjalan. yang berfungsi sebagai variable dalam source code diatas adalah **fullname** . <br>
+>Fungsi **input()** adalah untuk memasukan nilai dari layar console di command prompt, lalu kemudian mengembalikan nilai saat kita menekan tombol enter *(newline)*<br> 
+ *(newline)*<br>
+
+ * Untuk menghitung rumus saya menggunakan variable *DOB* yaitu 2020 (Tahun sekarang) dikurangin dengan Year of Birt, pada source code berikut :<br>
+``` python
+dob=2020-year
+```
+<br> Pada syntax/source diatas, saya menggunakan variable (dob) dimana untuk menghitung umur (variable **age** pada output), yaitu dengan rumus pada variable *dob=2020-year*
+<br>
+
+* langkah kali ini saya akan menampilkan output yang diminta oleh dosen.<br>
+output pertama yang diminta Dosen adalah menampilkan salam, yaitu dengan mengetikkan syntax/source code berikut :
+``` python
+print("\n\n Assalamu'alaikum. ")
+<br>
+Keterangan :
+1. Fungsi **\n** pada source code di atas adalah untuk memberi baris baru / enter / *(newline)*
+2. Fungsi print() seperti dijelaskan pada point **Output** diatas
