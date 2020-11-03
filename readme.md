@@ -16,7 +16,7 @@ Daftar isi tugas sebelumnya<br>
 | --- | --- | --- |
 | 1 | Pertemuan 5 | [Link](#tugas-pertemuan-5) |
 | 2 | Pertemuan 6-1 | [Link](#tugas-pertemuan-6-1) |
-| 3 | Pertemuan | [Link](https://...) |
+| 3 | Pertemuan 6-2 | [Link](#tugas-pertemuan-6-2) |
 | 4 | Pertemuan | [Link](https://...) |
 | 5 | Pertemuan | [Link](https://...) |
 
@@ -186,3 +186,55 @@ print(w,x,y,z,sep="-----")
 ```
 
 hasil dari syntax / source code diatas adalah seperti berikut ini : <br>
+![P6.1](pertemuan6.1/sample3.png)
+<br>
+<br>
+
+
+## Tugas Pertemuan 6-2
+<br>
+
+Berikut adalah tugas pada pertemuan ke - 6 = **String Format**
+
+- **String Format** <br>
+String formatting atau pemformatan string memungkinan kita menyuntikkan item kedalam string dari pada kita mencoba menggabungkan string menggunakan koma atau string concatenation.<br>
+
+Menggunakan souce code yang diberikan oleh dosen pengampu pada pertemmuan ini :
+![P6](pertemuan6.2/sample1.png)
+
+```#string format 1
+print(0, 10**0)
+print(1, 10**1)
+print(2, 10**2)
+print(3, 10**3)
+print(4, 10**4)
+print(5, 10**5)
+print(6, 10**5)
+print(8, 10**8)
+print(9, 10**9)
+print(10, 10**10)
+
+#string format 2
+print('{0:>3} {1:>16}'.format(0, 10**0))
+print('{0:>3} {1:>16}'.format(1, 10**1))
+print('{0:>3} {1:>16}'.format(2, 10**2))
+print('{0:>3} {1:>16}'.format(3, 10**3))
+print('{0:>3} {1:>16}'.format(4, 10**4))
+print('{0:>3} {1:>16}'.format(5, 10**5))
+print('{0:>3} {1:>16}'.format(6, 10**6))
+print('{0:>3} {1:>16}'.format(7, 10**7))
+print('{0:>3} {1:>16}'.format(8, 10**8))
+print('{0:>3} {1:>16}'.format(9, 10**9))
+print('{0:>3} {1:>16}'.format(10, 10**10))
+```
+
+Mari kita bahas syntax yang telah diberikan.
+<br>
+
+1. **String Format 1** <br>
+Pada syntax string format 1 akan menampilkan hasil berupa 2 output. <br>
+Yang pertama dari sebelah kiri akan menampilkan urutan angka dari 0 - 10, sedangkan dari sebelah kanan akan menampilkan *Operasi Aritmatika Pangkat*. <br>
+Dengan ketentuan sebagai berikut, Operasi pangkat dengan angka kiri sebagai pokok. <br>
+(Rumus : ** [bintang dua] ) <br>
+Berikut sample output dari syntax diatas :
+![P6](pertemuan6.2/string1.png)
