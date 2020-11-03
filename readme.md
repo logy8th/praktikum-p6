@@ -7,7 +7,7 @@ NIM : 312010174
 Daftar isi tugas sebelumnya<br>
 | No. | Keterangan | Link |
 | --- | --- | --- |
-| 1 | Pertemuan 5 | [Link](#Tugas Pertemuan 5) |
+| 1 | Pertemuan 5 | [Link](#tugas-pertemuan-5) |
 | 2 | Pertemuan | [Link](https://...) |
 | 3 | Pertemuan | [Link](https://...) |
 | 4 | Pertemuan | [Link](https://...) |
@@ -44,7 +44,19 @@ print(f"Let me introduce my self. My name is {fullname}, but you can call me {ni
 
 ```
 <br>
+
 **Maka akan keluar ouput sebagai berikut :**
 
 ![P5](pertemuan5/p5.png)
+
 <br>
+Berikut Penjelasannya :
+
+print("please enter your full name : ")
+Source code diatas berfungsi untuk mencetak hasil / output berupa **Please enter your full name** : ".
+Untuk menampilkan output string, saya menggunakan tanda petik dua didalam fungsi print(), sedangkan jika saya ingin menampilkan output atau hasil berupa angka atau interger saya tidak perlu menggunakan tanda petik dua. Contohnya :
+
+***print("Nama saya adalah...")
+print(1234567)***
+
+![P5](pertemuan5/sample.png)
