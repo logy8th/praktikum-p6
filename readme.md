@@ -1,14 +1,14 @@
 # Tugas Pertemuan ke-6 [Senin, 26-10-2020]
-Nama : NAUFAL NIRWANSYAH
-Kelas : TI.20.A1
-NIM : 312010174
+Nama : NAUFAL NIRWANSYAH <br>
+Kelas : TI.20.A1 <br>
+NIM : 312010174 <br>
 <br>
 <br>
 Daftar isi tugas sebelumnya<br>
 | No. | Keterangan | Link |
 | --- | --- | --- |
 | 1 | Pertemuan 5 | [Link](#tugas-pertemuan-5) |
-| 2 | Pertemuan 6.1 | [Link](#tugas-pertemuan-6.1) |
+| 2 | Pertemuan 6.1 | [Link](#tugas-pertemuan-6) |
 | 3 | Pertemuan | [Link](https://...) |
 | 4 | Pertemuan | [Link](https://...) |
 | 5 | Pertemuan | [Link](https://...) |
@@ -94,7 +94,7 @@ Keterangan :
 2. Sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable<br>
 
 
-## Tugas Pertemuan 6.1
+## Tugas Pertemuan 6
 
 Berikut adalah tugas pada pertemuan ke - 6 = **Operator**
 <br>
