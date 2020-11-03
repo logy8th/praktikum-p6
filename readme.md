@@ -85,6 +85,6 @@ print("\n\n Assalamu'alaikum. ")
 Keterangan :
 1. Fungsi **\n** pada source code di atas adalah untuk memberi baris baru / enter / *(newline)*
 2. Fungsi print() seperti dijelaskan pada point **Output** diatas.
-Hasil dari source code diatas adalah seperti gambar dibawah ini :
-<br>
+Hasil dari source code diatas adalah seperti gambar dibawah ini :<br>
+
 ![P5](pertemuan5/sample2.png) 
