@@ -139,4 +139,5 @@ print('Y')
 print('z')
 ```
 Hasil dari source code tersebut seperti gambar dibawah ini :<br>
+
 ![P6-1](pertemuan6.1/sample2.png)
