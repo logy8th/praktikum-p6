@@ -52,9 +52,12 @@ print(f"Let me introduce my self. My name is {fullname}, but you can call me {ni
 <br>
 Berikut Penjelasannya :
 
-print("please enter your full name : ")
+***print("please enter your full name : ")***
+
 Source code diatas berfungsi untuk mencetak hasil / output berupa **Please enter your full name** : ".
-Untuk menampilkan output string, saya menggunakan tanda petik dua didalam fungsi print(), sedangkan jika saya ingin menampilkan output atau hasil berupa angka atau interger saya tidak perlu menggunakan tanda petik dua. Contohnya :
+
+Untuk menampilkan output string, saya menggunakan tanda petik dua didalam fungsi print(),
+sedangkan jika saya ingin menampilkan output atau hasil berupa angka atau interger saya tidak perlu menggunakan tanda petik dua. Contohnya : <br>
 
 ***print("Nama saya adalah...")
 print(1234567)***
