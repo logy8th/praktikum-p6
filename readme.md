@@ -261,6 +261,6 @@ Hasil dari syntax contoh diatas akan seperti berikut :<br>
 print('{:<30}{:30}{:>30}'.format(7,20,34))
 ```
 Hasil dari syntax contoh diatas akan seperti berikut :<br>
-~[P6](pertemuan6.2/string3.png)
+![P6](pertemuan6.2/string3.png)
 <br>
 <br>
