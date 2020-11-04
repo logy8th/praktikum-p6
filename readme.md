@@ -240,3 +240,27 @@ Dengan ketentuan sebagai berikut, Operasi pangkat dengan angka kiri sebagai poko
 Berikut sample output dari syntax diatas : <br>
 
 ![P6](pertemuan6.2/string1.png)
+
+2. **String Format 2** <br>
+ Pada String Format 2 akan menampilkan output berupa 2 output'an juga **(seperti String Format 1, yaitu kanan dan kiri)**<br>
+ Dengan ketentuan sebagai berikut : <br>
+ >Secara Default, **.format()** menggunakan rata kiri, angka ke kanan. Kita dapat menggunakan opsi opsional <,^, atau > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan **.format()** sebagai berikut :<br> 
+
+ ```
+ print('{0:8} | {1:9}'.format('Buah','Jumlah'))
+print('{0:8} | {1:9}'.format('Semongko',3.))
+print('{0:8} | {1:9}'.format('Gedang',10))
+```
+Hasil dari syntax contoh diatas akan seperti berikut :<br>
+ ![P6](pertemuan6.2/string2.png)
+<br>
+
+ >Secara Default,**.format()** menggunakan rata text ke kiri, angka ke kanan, kita dapat menggunakan opsi opsional<,^,atau > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan **.format()** sebagai berikut : <br>
+ ```
+ print('{:<30}{:30}{:>30}'.format('kiri','tengah','kanan'))
+print('{:<30}{:30}{:>30}'.format(7,20,34))
+```
+Hasil dari syntax contoh diatas akan seperti berikut :<br>
+~[P6](perteman6.2/string3.png)
+<br>
+<br>
