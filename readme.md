@@ -192,6 +192,9 @@ hasil dari syntax / source code diatas adalah seperti berikut ini : <br>
 
 
 ## Tugas Pertemuan 6-2
+
+
+
 <br>
 
 Berikut adalah tugas pada pertemuan ke - 6 = **String Format**
@@ -257,10 +260,76 @@ Hasil dari syntax contoh diatas akan seperti berikut :<br>
 
  >Secara Default,**.format()** menggunakan rata text ke kiri, angka ke kanan, kita dapat menggunakan opsi opsional<,^,atau > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan **.format()** sebagai berikut : <br>
  ```
- print('{:<30}{:30}{:>30}'.format('kiri','tengah','kanan'))
-print('{:<30}{:30}{:>30}'.format(7,20,34))
+ print('{:<30}{:10}{:>30}'.format('kiri','tengah','kanan'))
+print('{:<30}{:1}{:>30}'.format(7,20,34))
 ```
 Hasil dari syntax contoh diatas akan seperti berikut :<br>
 ![P6](pertemuan6.2/sttring3.png)
 <br>
+
+Untuk hasil dari **String Format 2** adalah :<br>
+![P6](pertemuan6.2/string4.png)
+
+## Tugas Pertemuan 6-3
+
+Berikut adalah tugas pada pertemuan ke - 6 = **Konversi Nilai Variable**
 <br>
+Untuk pembahasan terakhir, kali ini akan menyelesaikan tugas Lab 2 dari Dosen, yaitu konversi Nilai Variable.
+<br>
+Berikut syntax yang diberikan oleh dosen:: <br>
+
+![P6](pertemuan6.3/sample1.png)
+```
+a=input("masukkan nilai a : ")
+b=input("masukkan nilai b : ")
+print("variable a : ",a)
+print("variable b : ",b)
+print("hasil penggabungan {1}&{0}=%d".format(a,b) %(a+b))
+
+#konversi nilai variable
+a=int(a)
+b=int(b)
+print("hasil pejumlahan {1}+{0}=%d".format(a,b) %(a+b))
+print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
+```
+<br>
+Maka muncul error pada output seperti berikut : <br>
+
+![P6](pertemuan6.3/error1.png) <br>
+Disitu muncul pop up error : <br>
+> **TypeError: %d format: a  number is required, not str** <br>
+
+Pada error tersebut terdapat terbaca bahwa variable tersebut a adalah string, yang seharusnya dibaca oleh system adalah Number / Interger.<br>
+*bagaimana cara memperbaiki error tersebut?*<br>
+Kita lihat pada baris ke 5 (di notifikasi terbaca bahwa error terletak pada baris ke 5), yaitu pemformatan **.format()** adalah interger, sedangkan jika berupa string maka akan ada tanda titik dua ("..") pada pemformatan **.format()**<br>
+Kita akan terfokus pada variable a dan b. <br> 
+Pada line 1 tertulis syntax : *a=input("masukan nilai a : ")* <br>
+Sedangkan pada line 2 tertulis syntax : *b=input("masukan nilai b : ")* <br>
+Untuk membuat inputan berupa interger/angka harus ditambahkan syntax int() pada format input(). yang seharusnya ditulis adalah : <br>
+```
+a=int(input("masukkan nilai a:"))
+b=int(input("masukkan nilai b:"))
+```
+<br>
+Kita akan ulangi semua syntax seperti berikut : <br>
+
+```
+a=int(input("Masukkan Nilai A : "))
+b=int(input("Masukkan Nilai B : "))
+print("Variable A =",a)
+print("Variable B =",b)
+print("Hasil Penggabungan {1} & {0} = %d ".format(a,b) %(a + b))
+
+#konversi nilai variable
+a=int(a)
+b=int(b)
+print("Hasil Pejumlahan {1} + {0} = %d".format(a,b) %(a + b))
+print("Hasil Pembagian {1} / {0} = %d".format(a,b) %(a / b))
+```
+<br>
+
+Kemudian kita **RUN** kembali maka akan muncul output seperti berikut : <br>
+
+![P6](pertemuan6.3/konversi1.png)
+<br>
+Setelah semua file berhasil disimpan dan dijalankan berhasil, maka selesai sudah Tugas pertemuan 6 - Bahasa pemrograman kali ini.
