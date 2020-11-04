@@ -17,8 +17,7 @@ Daftar isi tugas sebelumnya<br>
 | 1 | Pertemuan 5 | [Link](#tugas-pertemuan-5) |
 | 2 | Pertemuan 6-1 | [Link](#tugas-pertemuan-6-1) |
 | 3 | Pertemuan 6-2 | [Link](#tugas-pertemuan-6-2) |
-| 4 | Pertemuan | [Link](https://...) |
-| 5 | Pertemuan | [Link](https://...) |
+| 4 | Pertemuan 6-3 | [Link](#tugas-pertemuan-6-3) |
 
 </p>
 
